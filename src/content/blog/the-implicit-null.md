@@ -2,7 +2,7 @@
 title: 'The Implicit NULL'
 description: 'Lorem ipsum dolor sit amet'
 pubDate: 'Oct 21 2023'
-heroImage: '/blog-placeholder-3.jpg'
+heroImage: '/blog-placeholder-1.jpg'
 ---
 
 Computers follow human instructions, making it crucial to express our ideas explicitly in code to prevent bugs. Unfortunately, for many years mainstream programming languages have fallen short in achieving this precision, primarily due to one feature: the implicit null.
