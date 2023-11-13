@@ -1,7 +1,7 @@
 ---
 title: "A Universal Interface?"
 description: "Are universal interfaces always the best option?"
-pubDate: "Nov 13 2023"
+pubDate: "2023-11-13"
 heroImage: "/a-universal-interface.jpg"
 ---
 

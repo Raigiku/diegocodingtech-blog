@@ -1,7 +1,7 @@
 ---
 title: 'The Implicit NULL'
 description: 'Implicit NULLs are a mistake'
-pubDate: 'Oct 21 2023'
+pubDate: '2023-10-21'
 heroImage: '/the-implicit-null.jpg'
 ---
 
