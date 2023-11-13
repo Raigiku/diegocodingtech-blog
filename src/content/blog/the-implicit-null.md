@@ -1,6 +1,6 @@
 ---
 title: 'The Implicit NULL'
-description: 'Lorem ipsum dolor sit amet'
+description: 'Implicit NULLs are a mistake'
 pubDate: 'Oct 21 2023'
 heroImage: '/the-implicit-null.jpg'
 ---
